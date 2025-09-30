@@ -1,0 +1,6 @@
+PatientID,Age,HeartRate,BloodPressure,DiagnosisSeverity,DoctorAssigned
+P001,65,110,145/88,8,Dr.Smith
+P002,72,95,130/85,5,Dr.Jones
+P003,54,120,150/92,9,Dr.Lee
+P004,28,100,120/80,2,Dr.Smith
+P005,43,105,140/87,6,Dr.Jones
