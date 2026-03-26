@@ -1,9 +1,14 @@
 🚀 SmartRAG: Gemini-Powered Conversational Decision Support Agent
+---
+
 Overview
+---
 SmartRAG is a next-generation RAG-based decision support dashboard powered by Google Gemini 2.5.
-Upload any CSV --> HR, healthcare, finance, workflow—and ask business-impactful questions via natural language.
+
+Upload any CSV --> HR, healthcare, finance, workflow and ask business-impactful questions via natural language.
+
 Get real-time recommendations, analytics, and actionable notes all in one place.
--------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 
 🚦 Demo Screenshots
