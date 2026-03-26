@@ -126,7 +126,7 @@ Upload CSV, ask away, save/act on notes
 💡 Why This Project?
 For recruiters: Instantly evaluate candidates, teams, and recommendations.
 
-For leaders: Make better business decisions—no AI/ML expertise needed.
+For leaders: Make better business decisions --> no AI/ML expertise needed.
 
 For anyone: Seamless, conversational analytics from your data, powered by the latest LLMs.
 
@@ -146,7 +146,7 @@ For anyone: Seamless, conversational analytics from your data, powered by the la
 
 If you found this project helpful, please consider giving it a **Star**! It helps others discover the work and keeps me motivated to improve it.
 
-[![Star this repo](https://img.shields.io)](https://github.com)
+**Star this repo: https://github.com/10Prachi2006/RAG-Based-Agent.git**
 
 ---
 
@@ -154,8 +154,7 @@ If you found this project helpful, please consider giving it a **Star**! It help
 
 I'm always open to collaborating on open-source projects or discussing new opportunities.
 
-[![LinkedIn](https://img.shields.io)](www.linkedin.com/in/prachi-yadav-60466b343)
-[![](https://img.shields.io)]([https://github.com](https://github.com/10Prachi2006/RAG-Based-Agent.git))
+**LinkedIn: www.linkedin.com/in/prachi-yadav-60466b343** 
 
 **Developed with ❤️ by Prachi Yadav**
 
