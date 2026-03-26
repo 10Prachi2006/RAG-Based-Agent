@@ -1,7 +1,7 @@
 🚀 SmartRAG: Gemini-Powered Conversational Decision Support Agent
 Overview
 SmartRAG is a next-generation RAG-based decision support dashboard powered by Google Gemini 2.5.
-Upload any CSV—HR, healthcare, finance, workflow—and ask business-impactful questions via natural language.
+Upload any CSV --> HR, healthcare, finance, workflow—and ask business-impactful questions via natural language.
 Get real-time recommendations, analytics, and actionable notes all in one place.
 -------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -23,9 +23,10 @@ Error handling, best candidate/patient/project highlight
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 
+🚦 Demo URL: 
+https://vimeo.com/1131305868?fl=ip&fe=ec
 
-
-
+---
 
 ✨ Features
 Universal CSV support: HR, patients, projects, budgets—instantly load and analyze.
@@ -128,6 +129,38 @@ For anyone: Seamless, conversational analytics from your data, powered by the la
 
 
 
+
+
+---
+
+<div align="center">
+
+---
+
+### 🌟 Show your support
+
+If you found this project helpful, please consider giving it a **Star**! It helps others discover the work and keeps me motivated to improve it.
+
+[![Star this repo](https://img.shields.io)](https://github.com)
+
+---
+
+### 🤝 Let's Connect
+
+I'm always open to collaborating on open-source projects or discussing new opportunities.
+
+[![LinkedIn](https://img.shields.io)](www.linkedin.com/in/prachi-yadav-60466b343)
+[![](https://img.shields.io)]([https://github.com](https://github.com/10Prachi2006/RAG-Based-Agent.git))
+
+**Developed with ❤️ by Prachi Yadav**
+
+</div>
+
+
+
+
+
+
 -------------------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -135,30 +168,9 @@ For anyone: Seamless, conversational analytics from your data, powered by the la
 
 
 
-🔗 Connect/Collaborate
+## Author:
 
-📫 DM me on LinkedIn (https://www.linkedin.com/in/prachi-yadav-60466b343)
-
-💬 For custom demos: reach out!
-
-
-
-
-
-
-
-
-
--------------------------------------------------------------------------------------------------------------------------------------------
-
-
-
-
-
-
-Author:
-
-Prachi Yadav.
+### Prachi Yadav.
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------
